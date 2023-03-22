@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 name: workflow yamdb_final
 
 on: [push]
@@ -79,3 +80,6 @@ jobs:
       to: ${{ secrets.TELEGRAM_TO }}
       token: ${{ secrets.TELEGRAM_TOKEN }}
       message: ${{ github.workflow }} успешно выполнен!
+=======
+
+>>>>>>> 07c871e5c85b47fb0e804913b3fe91d7f53fa366
