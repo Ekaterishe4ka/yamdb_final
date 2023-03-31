@@ -1,14 +1,14 @@
 ![Yamdb Workflow Status](https://github.com/Ekaterishe4ka/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg?branch=master&event=push)
 
-## Описание
+# Описание
 
 Учебный проект 16 спринта курса Python-разработчик в Яндекс.Практикум
 
-http://yatube-practium.ddns.net/redoc/ Документация для YaMDb
-
 Проект YaMDb собирает отзывы пользователей на произведения. Сами произведения в YaMDb не хранятся, здесь нельзя посмотреть фильм или послушать музыку.
 
-## Стек
+В этом спринте мы работали с облачным сервисом GitHub Actions.
+
+# Стек технологий
 
 - Python
 - Django
@@ -27,7 +27,7 @@ http://yatube-practium.ddns.net/redoc/ Документация для YaMDb
 - Отправка уведомления в телеграм-чат.
 
 
-## Установка
+# Установка
 
 Клонировать репозиторий на локальную машину:
 
